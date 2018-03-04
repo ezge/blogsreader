@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColorPrimary">@color/jet</item>
+        <item name="android:colorForeground">@color/iron</item>
+        <item name="android:textColorSecondary">@color/jet</item>
+        <item name="android:textColorSecondaryInverse">@color/colorAccent</item>
+    </style>
+
+   <style name="titleText" parent="Base.TextAppearance.AppCompat.Medium">
+   </style>
+
+    <style name="descriptionText" parent="Base.TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/jumbo</item>
+    </style>
+</resources>

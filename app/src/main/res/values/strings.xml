@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Blogs Reader</string>
+    <string name="idJSON">id</string>
+    <string name="titleJSON">title</string>
+    <string name="descriptionJSON">description</string>
+    <string name="imgUrlJSON">image_url</string>
+    <string name="host">blogsdemo.creitiveapps.com</string>
+    <string name="requestPropAccept">application/json</string>
+    <string name="requestPropContentType">application/json</string>
+    <string name="requestPropContentLen">68</string>
+    <string name="token">eaf57e2cb62755db708144c93b1f319dcda89871</string>
+    <string name="login_url">http://blogsdemo.creitiveapps.com/login</string>
+    <string name="blogs_url">"http://blogsdemo.creitiveapps.com/blogs"</string>
+    <string name="blog_display_url"> http://blogsdemo.creitiveapps.com/blogs/</string>
+    <string name="code_200">Login successed</string>
+    <string name="code_400">Error: unsubmitted credentials!</string>
+    <string name="code_401">Error: unauthorized credentials, token is missing or incorrect!</string>
+    <string name="code_404">Error: Not Found, ID doesn\'t exist!</string>
+    <string name="code_406">Error: Not Acceptable, incorrect Accept header!</string>
+    <string name="code_415">Error: Unsupported Media Type, incorrect Content-Type header, not json!</string>
+    <string name="code_503">Error: Service Unavailable, the server is currently unable to respond!</string>
+    <string name="errorUnknown">Error code: </string>
+    <string name="labelLoginActivity">Login</string>
+    <string name="labelBlogListActivity">Blog List</string>
+    <string name="labelBlogDisplayActivity">Blog Display</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginBtn">Login</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
